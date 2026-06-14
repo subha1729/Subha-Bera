@@ -134,7 +134,7 @@ Python • Scikit-Learn • Pandas • Streamlit
 
 💼 LinkedIn: [https://www.linkedin.com/in/subha-bera-b8b25a287](https://www.linkedin.com/in/subha-bera-b8b25a287)
 
-🐙 GitHub: [Subha](https://github.com/Subha)
+🐙 GitHub: [Subha](https://github.com/subha1729)
 
 ---
 

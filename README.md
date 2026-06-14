@@ -127,13 +127,6 @@ Python • Scikit-Learn • Pandas • Streamlit
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the_man\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the_man\&layout=compact)
-
----
 
 ## 📫 Connect With Me
 

@@ -48,6 +48,16 @@ Become a skilled Software Development Engineer and build impactful technology pr
 * Node.js
 * Express.js
 
+### Machine Learning & AI
+* Scikit-Learn
+* Pandas
+* NumPy
+* Machine Learning
+* Data Analysis
+* Predictive Modeling
+* Feature Engineering
+* Model Evaluation
+
 ### Databases
 
 * MongoDB
@@ -59,6 +69,7 @@ Become a skilled Software Development Engineer and build impactful technology pr
 * GitHub
 * VS Code
 * Postman
+* Streamlit
 
 ---
 
@@ -128,9 +139,7 @@ Python • Scikit-Learn • Pandas • Streamlit
 
 📧 Email: [bera.subha2005@gmail.com](mailto:bera.subha2005@gmail.com)
 
-💼 LinkedIn: Add your LinkedIn profile here
-
-🌐 Portfolio: Add your portfolio website here
+💼 LinkedIn: 
 
 ---
 

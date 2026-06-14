@@ -6,6 +6,30 @@ Passionate about building software, solving real-world problems, and exploring A
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subha1729&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/subha1729?style=for-the-badge&logo=github&label=Followers" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aspiring-SDE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learner-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Projects-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="mailto:bera.subha2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/subha-bera-b8b25a287">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/subha1729">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 🎓 B.Tech CSE (AI & ML) Student
@@ -30,6 +54,10 @@ Passionate about building software, solving real-world problems, and exploring A
 Become a skilled Software Development Engineer and build impactful technology products.
 
 ---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ## 🛠️ Tech Stack
 

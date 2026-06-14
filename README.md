@@ -1,55 +1,64 @@
-<h1 align="center">Hi 👋, I'm Subha</h1>
+<h1 align="center">Hi 👋, I'm Subha Bera</h1>
 
 <h3 align="center">
-B.Tech CSE (AI & ML) Student | Full-Stack Developer | AI Enthusiast
+Full-Stack Developer • AI & ML Student • Problem Solver
 </h3>
 
 <p align="center">
-Building AI-powered products, full-stack web applications, and developer tools.
+Building AI-powered products, scalable web applications, and developer tools.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI & ML)
-- 💻 Full-Stack Developer
-- 🤖 Interested in AI, LLMs, Machine Learning, and Software Engineering
-- 🌱 Currently learning System Design, MERN Stack, and AI Development
-- 🚀 Building real-world projects and improving every day
+🎓 B.Tech CSE (AI & ML) Student at Parul University
+
+💻 Passionate about Software Engineering, AI, Machine Learning, and Product Development
+
+🌱 Currently learning:
+- MERN Development
+- AI Engineering
+- LLM Applications
+
+⚡ Building projects that solve real-world problems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+```python
+Python • JavaScript • Java • C
+```
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+```javascript
+HTML • CSS • React.js
+```
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+```javascript
+Node.js • Express.js
+```
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+```sql
+MongoDB • MySQL
+```
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+```bash
+Git • GitHub • VS Code • Postman
+```
 
 ---
 
 ## 🔥 Featured Projects
 
-### Chat Summarizer
-AI-powered application that summarizes conversations from messaging platforms.
+### 🤖 Chat Summarizer
+
+AI-powered platform that transforms long conversations into concise, actionable summaries.
 
 **Features**
 - Discord Integration
@@ -57,47 +66,79 @@ AI-powered application that summarizes conversations from messaging platforms.
 - Topic Analysis
 - User Insights
 - Summary History
+- Modern Dashboard
+
+**Tech Stack**
+```
+React • Node.js • Express • MongoDB • OpenAI API
+```
 
 ---
 
-### HTML & CSS Projects
-Collection of frontend projects built to improve UI/UX and responsive design skills.
+### 🏥 Multiple Disease Prediction System
 
----
+Machine Learning application capable of predicting multiple diseases using healthcare datasets.
 
-### ML Web Applications
-Machine Learning projects deployed using Streamlit.
+**Features**
+- Diabetes Prediction
+- Heart Disease Prediction
+- Parkinson's Prediction
+- Real-Time Predictions
+
+**Tech Stack**
+```
+Python • Scikit-Learn • Pandas • Streamlit
+```
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subha10001&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subha10001&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subha10001" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subha10001&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subha1729&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
-- Build production-ready AI applications
-- Learn advanced backend development
-- Contribute to open source
-- Master System Design
-- Explore LLM development
+- Build Production-Ready AI Products
+- Master MERN Stack
+- Learn System Design
+- Contribute to Open Source
+- Explore LLM Engineering
+- Secure a Software Engineering Internship
+
+---
+
+## 🏆 Achievements
+
+🏅 Participated in PU Hackathon
+
+🏅 Participated in Vadodara Hackathon
+
+🏅 Built Multiple AI & Full-Stack Projects
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: bera.subha2005@gmail.com
+📧 bera.subha2005@gmail.com
 
 ---
 
-<p align="center">
-⭐ Building. Learning. Growing.
-</p>
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+*"Great software is built one commit at a time."*
+
+</div>

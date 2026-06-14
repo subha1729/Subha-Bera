@@ -132,8 +132,9 @@ Python • Scikit-Learn • Pandas • Streamlit
 
 📧 Email: [bera.subha2005@gmail.com](mailto:bera.subha2005@gmail.com)
 
-💼 LinkedIn: [https://www.linkedin.com/in/subha-bera-b8b25a287](visitto:https://www.linkedin.com/in/subha-bera-b8b25a287)
+💼 LinkedIn: [https://www.linkedin.com/in/subha-bera-b8b25a287](https://www.linkedin.com/in/subha-bera-b8b25a287)
 
+🐙 GitHub: [Subha](https://github.com/Subha)
 
 ---
 

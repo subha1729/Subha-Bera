@@ -1,144 +1,139 @@
-<h1 align="center">Hi 👋, I'm Subha Bera</h1>
+# Hi 👋, I'm Subha Bera
 
-<h3 align="center">
-Full-Stack Developer • AI & ML Student • Problem Solver
-</h3>
+### Aspiring Software Development Engineer (SDE) | AI & ML Enthusiast
 
-<p align="center">
-Building AI-powered products, scalable web applications, and developer tools.
-</p>
+Passionate about building software, solving real-world problems, and exploring Artificial Intelligence. Currently pursuing a B.Tech in Computer Science Engineering (AI & ML) and continuously improving my skills in software engineering, problem-solving, and system design.
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE (AI & ML) Student at Parul University
+🎓 B.Tech CSE (AI & ML) Student
 
-💻 Passionate about Software Engineering, AI, Machine Learning, and Product Development
+💡 Interested in:
 
-🌱 Currently learning:
-- MERN Development
-- AI Engineering
-- LLM Applications
+* Software Engineering
+* Artificial Intelligence
+* Machine Learning
+* Backend Development
+* System Design
 
-⚡ Building projects that solve real-world problems
+🌱 Currently Learning:
+
+* Data Structures & Algorithms
+* System Design
+* Backend Architecture
+* AI Engineering
+* Large Language Models (LLMs)
+
+🎯 Goal:
+Become a skilled Software Development Engineer and build impactful technology products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-```python
-Python • JavaScript • Java • C
-```
+### Programming Languages
 
-### Frontend
-```javascript
-HTML • CSS • React.js
-```
+* Python
+* Java
+* JavaScript
+* C
 
-### Backend
-```javascript
-Node.js • Express.js
-```
+### Web Development
 
-### Database
-```sql
-MongoDB • MySQL
-```
+* HTML
+* CSS
+* React.js
+* Node.js
+* Express.js
 
-### Tools
-```bash
-Git • GitHub • VS Code • Postman
-```
+### Databases
+
+* MongoDB
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Postman
 
 ---
 
-## 🔥 Featured Projects
+## 📂 Projects
 
 ### 🤖 Chat Summarizer
 
-AI-powered platform that transforms long conversations into concise, actionable summaries.
+AI-powered platform that generates intelligent summaries from conversations.
 
-**Features**
-- Discord Integration
-- AI Summaries
-- Topic Analysis
-- User Insights
-- Summary History
-- Modern Dashboard
+**Highlights**
+
+* Discord Integration
+* AI-generated summaries
+* Topic-wise analysis
+* User insights
+* Dashboard interface
 
 **Tech Stack**
-```
-React • Node.js • Express • MongoDB • OpenAI API
-```
+React • Node.js • Express.js • MongoDB
 
 ---
 
 ### 🏥 Multiple Disease Prediction System
 
-Machine Learning application capable of predicting multiple diseases using healthcare datasets.
+Machine Learning application for predicting multiple diseases using healthcare datasets.
 
 **Features**
-- Diabetes Prediction
-- Heart Disease Prediction
-- Parkinson's Prediction
-- Real-Time Predictions
+
+* Diabetes Prediction
+* Heart Disease Prediction
+* Parkinson's Prediction
+* Real-time Predictions
 
 **Tech Stack**
-```
 Python • Scikit-Learn • Pandas • Streamlit
-```
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subha10001&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subha10001&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subha1729&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Build Production-Ready AI Products
-- Master MERN Stack
-- Learn System Design
-- Contribute to Open Source
-- Explore LLM Engineering
-- Secure a Software Engineering Internship
+* Data Structures & Algorithms
+* Software Design Principles
+* System Design Fundamentals
+* Artificial Intelligence
+* Machine Learning
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Participated in PU Hackathon
+* Participated in PU Hackathon
+* Participated in Vadodara Hackathon
+* Built AI and Software Development Projects
+* Active Learner and Project Builder
 
-🏅 Participated in Vadodara Hackathon
+---
 
-🏅 Built Multiple AI & Full-Stack Projects
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the_man\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the_man\&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 bera.subha2005@gmail.com
+📧 Email: [bera.subha2005@gmail.com](mailto:bera.subha2005@gmail.com)
+
+💼 LinkedIn: Add your LinkedIn profile here
+
+🌐 Portfolio: Add your portfolio website here
 
 ---
 
-<div align="center">
+### 💻 Philosophy
 
-### 🚀 Building. Learning. Improving.
-
-*"Great software is built one commit at a time."*
-
-</div>
+> "Learn continuously, build consistently, improve relentlessly."
